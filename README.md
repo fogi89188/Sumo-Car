@@ -10,3 +10,7 @@ https://www.tinkercad.com/things/2qbZtXvybE7-sumo-robot
 
 ## More information
 You can find more information about this project in the documentation and the presentation uploaded above
+
+## Contributors:
+*Виктор Петров* - [fogi89188](https://github.com/fogi89188/)
+*Мирослав Мирчев* [Miro-02](https://github.com/Miro-02)
