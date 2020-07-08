@@ -7,3 +7,6 @@ The initial idea was to create a bluetooth controlled robot, but we decided to u
 
 ## Link to TinkerCAD
 https://www.tinkercad.com/things/2qbZtXvybE7-sumo-robot
+
+## More information
+You can find more information about this project in the documentation and the presentation uploaded above
