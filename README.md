@@ -1,5 +1,5 @@
-# Sumo-Car
-School Project "Sumo Car" - an arduino car project.
+# Sumo-Robot
+School Project "Sumo Robot" - an arduino robot project.
 
 ## Idea
 The idea behind this project is to create a sumo car, or the so called "Battle Bot".
@@ -12,5 +12,5 @@ https://www.tinkercad.com/things/2qbZtXvybE7-sumo-robot
 You can find more information about this project in the documentation and the presentation uploaded above
 
 ## Contributors:
-*Виктор Петров* - [fogi89188](https://github.com/fogi89188/)
-*Мирослав Мирчев* [Miro-02](https://github.com/Miro-02)
+*Виктор Петров 11г клас ТУЕС* - [fogi89188](https://github.com/fogi89188/)
+*Мирослав Мирчев 11г клас ТУЕС* [Miro-02](https://github.com/Miro-02)
